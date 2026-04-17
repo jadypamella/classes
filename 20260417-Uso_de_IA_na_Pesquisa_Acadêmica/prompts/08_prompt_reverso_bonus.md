@@ -1,4 +1,8 @@
-# Demo 8 (bônus): Prompt reverso
+# Bônus: Prompt reverso
+
+> *"Este é um paper excelente. Que prompt, dado a um pesquisador iniciante, teria produzido isso?"*
+>
+> Engenharia de prompt por engenharia reversa. A craft moderna de escrever é também a craft de prompt.
 
 ## Objetivo
 Engenharia reversa de excelência. Dado um paper que você admira, pedir à IA "qual prompt teria produzido isso?". Você extrai a estrutura mental invisível que gerou o trabalho de qualidade.
@@ -37,11 +41,6 @@ Tarefa
 
 5. Teste: aplique seu próprio prompt reverso a um contexto novo (use o tema [meu tema]) e gere um texto exemplo. Compare com o original. Onde seu prompt está incompleto? Ajuste.
 ```
-
-## O que destacar ao vivo
-
-- Mostrar que prompts bons são baseados em movimentos retóricos, não em instruções genéricas.
-- Comentar: "A craft moderna de escrever acadêmico é também a craft de prompt. Vocês ainda não viram isso em aula porque é novo."
 
 ## Aplicação prática
 

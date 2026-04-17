@@ -1,4 +1,6 @@
-# Demo 3: Literatura fantasma
+# Método 3: Literatura fantasma
+
+> *"Pergunte explicitamente por autoras mulheres, literatura em português e espanhol, perspectivas decoloniais."*
 
 ## Objetivo
 Detectar o que está ausente da sua revisão de literatura. A revisão reproduz os vieses de quem fez. A IA vê o ponto cego porque não está no seu ponto cego.
@@ -37,12 +39,6 @@ Estruture a resposta em 5 blocos, cada um com 3 a 5 itens justificados:
 
 Para cada item, indique a razão pela qual seria relevante E a fonte exata (autor, ano, título plausível). Se você não tem certeza de que a fonte existe, marque com [VERIFICAR].
 ```
-
-## O que destacar ao vivo
-
-- A instrução "[VERIFICAR]" é crítica. Ela disciplina a IA a admitir incerteza em vez de alucinar referências.
-- Mostrar que o viés anglófono aparece em quase 100% das revisões feitas por pós-graduandos brasileiros. Não é pessoal, é estrutural.
-- Comentar que esse movimento responde diretamente à pressão de banca por "diversidade de referências".
 
 ## Prompt complementar para diversidade
 

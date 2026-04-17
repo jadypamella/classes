@@ -1,4 +1,6 @@
-# Demo 4: Red-team da própria tese
+# Método 4: Red-team da própria tese
+
+> *"Se sua tese não sobrevive a uma IA hostil, ela não sobrevive a um humano hostil."*
 
 ## Objetivo
 Forçar a IA a ser hostil e encontrar a falha fatal da sua tese, capítulo ou artigo antes de um humano hostil encontrar. Inversão do default bajulador.
@@ -55,12 +57,6 @@ Texto a avaliar:
 
 Aplique as regras acima. Sem concessões.
 ```
-
-## O que destacar ao vivo
-
-- Ler em voz alta a "Falha fatal" que a IA produzir. Isso é o momento wow.
-- Comentar: "Agora imagina que isso veio depois do desk reject. Custou 6 meses. Com a IA, custou 3 minutos."
-- Reforçar: "Ainda não posso garantir que a IA está certa. Mas se EU concordo depois de ler, o problema é real."
 
 ## Variações
 

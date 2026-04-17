@@ -1,4 +1,6 @@
-# Demo 2: Triangulação multi-modelo
+# Método 2: Triangulação multi-modelo
+
+> *"Isso não existia em 2023. É instrumento novo de pesquisa."*
 
 ## Objetivo
 Usar a discordância entre LLMs como detector de controvérsia no campo, em vez de escolher um modelo preferido.
@@ -41,12 +43,6 @@ Responda em três partes:
 
 Não faça hedging. Tome uma posição.
 ```
-
-## O que destacar ao vivo
-
-- Mostrar na tela as três respostas lado a lado. Use tela dividida no Windows (Win + seta esquerda/direita).
-- Ler em voz alta os trechos de divergência.
-- Comentar: "O que acabamos de descobrir é que o campo não tem consenso nessa pergunta. Isso vale ouro."
 
 ## Caso concreto para ilustrar
 

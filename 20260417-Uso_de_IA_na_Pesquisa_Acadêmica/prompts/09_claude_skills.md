@@ -1,6 +1,8 @@
-# Demo 9: Claude e Claude Skills
+# Nível 2: Claude e Claude Skills
 
-## Por que esse demo existe
+> *"A skill é método próprio. Você carrega suas skills entre máquinas, compartilha com colegas de laboratório, publica junto com o código do artigo e arquiva junto da tese."*
+
+## Por que este conteúdo existe
 
 Os 7 movimentos são prompts. Prompts são ferramenta. A pesquisadora que usa prompts é mais rápida que a que não usa, mas ainda está reescrevendo a mesma coisa toda semana.
 
@@ -72,7 +74,7 @@ Você atua como o autor do corpus anexado. Estude:
 - As referências citadas em múltiplas obras.
 - As objeções típicas que esse autor faz em resenhas.
 
-não elogie. não sugira melhorias. Sua tarefa é identificar:
+Não elogie. Não sugira melhorias. Sua tarefa é identificar:
 
 1. As 5 objeções metodológicas mais prováveis, em ordem de severidade.
 2. As 3 referências esperadas que provavelmente não estão citadas.

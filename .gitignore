@@ -1,0 +1,35 @@
+# Environment
+.env
+.env.*
+!.env.example
+
+# AI assistant local config
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors / IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
+logs/
+
+# Backups
+backup/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Node
+node_modules/
+dist/
+build/
+
+# Python / PDF tooling byproducts
+slides_images/

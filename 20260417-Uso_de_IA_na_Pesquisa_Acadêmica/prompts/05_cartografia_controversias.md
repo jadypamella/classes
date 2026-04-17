@@ -1,4 +1,6 @@
-# Demo 5: Cartografia de controvérsias
+# Método 5: Cartografia de controvérsias
+
+> *"Latour fazia em 6 meses. Agora você faz em 20 minutos."*
 
 ## Objetivo
 Mapear o terreno de um debate antes de entrar nele. Descobrir quem discorda de quem, onde estão as fraturas, qual argumento cada lado não respondeu.
@@ -39,11 +41,6 @@ Estruture em 6 blocos:
 
 Para cada autor citado, dê nome completo, filiação institucional e a obra principal. Marque [VERIFICAR] onde tiver incerteza sobre dados.
 ```
-
-## O que destacar ao vivo
-
-- Mostrar que a cartografia expõe onde sua pesquisa pode entrar. A melhor tese mora entre as fraturas, não num lado só.
-- Comentar: "Você pode construir sua originalidade exatamente em cima dos 'argumentos não respondidos'. Isso não se ensina em aula de metodologia."
 
 ## Exemplo real (genérico)
 

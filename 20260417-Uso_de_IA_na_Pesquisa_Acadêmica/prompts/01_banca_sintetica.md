@@ -1,4 +1,6 @@
-# Demo 1: Banca sintética
+# Método 1: Banca sintética
+
+> *"Leia o capítulo 3 como se você fosse o Prof. X, autor de [artigo]. Aponte as 5 objeções mais prováveis em ordem de severidade."*
 
 ## Objetivo
 Transformar a IA numa simulação calibrada de leitores específicos (banca, orientador, revisor), usando como combustível os textos que eles mesmos publicaram.
@@ -30,7 +32,7 @@ Transformar a IA numa simulação calibrada de leitores específicos (banca, ori
 ```
 Você vai atuar como o [Prof. X], autor dos textos anexados. Estude o vocabulário, os critérios metodológicos, as referências recorrentes, e as objeções típicas que este autor faz em resenhas e debates.
 
-Abaixo está um fragmento do capítulo [N] de uma tese que você foi convidado a avaliar. Você não deve elogiar. não deve sugerir melhorias. Sua tarefa é identificar:
+Abaixo está um fragmento do capítulo [N] de uma tese que você foi convidado a avaliar. Você não deve elogiar. Não deve sugerir melhorias. Sua tarefa é identificar:
 
 1. As 5 objeções metodológicas mais prováveis que o Prof. X levantaria, em ordem de severidade.
 2. As 3 referências que o Prof. X certamente esperaria ver citadas e provavelmente não estão.
@@ -42,12 +44,6 @@ Para cada item, cite literalmente (entre aspas) a passagem da obra anexada que j
 Fragmento da tese:
 [cole o fragmento aqui]
 ```
-
-## O que destacar ao vivo
-
-- A importância de citar literalmente a obra anexada. Isso impede a alucinação de posições.
-- Comentar que esse movimento exige honestidade: só vale se você tratar as objeções como reais, não como lista para ignorar.
-- Reforçar que a banca sintética não substitui a banca real. Ela complementa no tempo em que a banca real não está disponível.
 
 ## Variações
 

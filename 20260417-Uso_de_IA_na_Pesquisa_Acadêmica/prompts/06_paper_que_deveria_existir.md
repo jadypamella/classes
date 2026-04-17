@@ -1,4 +1,6 @@
-# Demo 6: O paper que deveria existir
+# Método 6: O paper que deveria existir
+
+> *"Depois volte no método 4 e rode o red-team no paper descrito. A IA ataca a própria proposta."*
 
 ## Objetivo
 Dado um gap identificado na literatura, descrever o paper ideal que preencheria esse gap. Se o paper não existe, você acabou de achar sua pesquisa.
@@ -55,12 +57,6 @@ Estrutura:
 
 10. Busca de verificação: que string de busca no Google Scholar eu devo usar para confirmar que esse paper realmente não existe ainda.
 ```
-
-## O que destacar ao vivo
-
-- Depois de gerar a descrição, ir ao [Google Scholar](https://scholar.google.com) e colar a string de busca do item 10.
-- Mostrar que o paper realmente não existe (ou existe, parcialmente, e aí se apresenta como trabalho relacionado).
-- Comentar: "O que aconteceu agora é que, se o paper não existe, essa é a sua pesquisa. Você tem título, hipótese, método, dados, revista-alvo. Isso é um projeto de qualificação quase pronto."
 
 ## Caso real para ilustrar
 

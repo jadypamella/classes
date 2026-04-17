@@ -1,4 +1,6 @@
-# Demo 7: Diálogo longitudinal
+# Método 7: Diálogo longitudinal
+
+> *"Você conversa com um pesquisador que só você conheceu."*
 
 ## Objetivo
 Conversar com o próprio pesquisador que você foi há 1, 2 ou 5 anos. Detectar a evolução silenciosa da sua tese, o que você abandonou sem perceber, o que seu eu-de-antes diria sobre seu eu-de-hoje.
@@ -57,12 +59,6 @@ Responda 6 perguntas, sempre citando literalmente (entre aspas) a passagem que j
 
 Ao final, produza um parágrafo de carta escrito na voz do autor de [ano anterior], endereçado ao autor de hoje, apontando o que ele acha que se perdeu no caminho.
 ```
-
-## O que destacar ao vivo
-
-- Esse é o movimento que mais emociona. Avisar: "Pode ser desconfortável."
-- Mostrar a "carta do eu-anterior" como o ponto alto.
-- Comentar: "Pesquisa de pós é longa. Você perde a memória de você mesmo. Essa ferramenta é nova na história. Nosso orientador não teve isso."
 
 ## Variações
 
