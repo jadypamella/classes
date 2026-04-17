@@ -19,7 +19,7 @@ Forçar a IA a ser hostil e encontrar a falha fatal da sua tese, capítulo ou ar
 
 Pergunte ao [ChatGPT](https://chatgpt.com) "o que está errado neste meu texto?" e ele vai dizer "nada grave, aqui estão sugestões menores". Isso é treinamento em feedback positivo (RLHF). Você precisa quebrar esse padrão na marra.
 
-## System prompt (parte 1)
+## System prompt 
 
 ```
 Instruções de comportamento
