@@ -1,13 +1,11 @@
 # Vibecoding
 
-**Do problema ao protótipo funcional em uma hora**
-Mestrado em Administração Pública · Servidores da CAPES · Prof. Rafael Rabelo · 23/05/2026 · Jady Pamella
+**Do problema ao protótipo funcional**
+Mestrado em Administração · 23/05/2026 · Jady Pamella
 
 A pergunta não é mais *"Como vou explicar esse problema para o desenvolvedor?"*. É *"E se eu fizer o protótipo para conversar com o desenvolvedor?"*.
 
 Este repositório é o material que sobrou da aula: slides, os prompts que foram colados no Lovable durante a hora, e os dois apps que ficaram no ar como resultado. Pegue, edite, cole. O que você precisa para reconstruir em casa.
-
-Material original e roteiro completo da aula em [c:\Projects\unb\aula_vibecoding](../../unb/aula_vibecoding).
 
 ---
 
@@ -51,7 +49,7 @@ O termo nasceu em 2025 e virou prática comum entre quem constrói produto. O qu
 ideia  →  protótipo em minutos  →  validação real  →  proposta com a tela pronta
 ```
 
-O protótipo vem antes do pedido. Você para de descrever o que quer e passa a mostrar.
+O protótipo vem antes do pedido para área de TI. Você para de descrever o que quer e passa a mostrar.
 
 **O caminho de hoje:** você identifica a necessidade, escreve requisitos, abre chamado, espera a fila da TI, estudo de viabilidade, processo de contratação, e dois anos depois talvez o sistema chega diferente do que você precisava.
 
@@ -95,23 +93,13 @@ Adaptado de [designplusai.com](https://designplusai.com/p/how-to-prompt-high-end
 
 ---
 
-## O segredo que destrava tudo
-
-Você não está escrevendo um comando para uma máquina burra. Está orientando um estagiário muito rápido, que entende português, não se ofende com correção e não cansa.
-
-Pediu, veio mais ou menos, você explica o que faltou, ele refaz. Em cinco minutos você está num lugar que o chamado de TI poderia levar meses.
-
----
-
 ## Atenção
 
 ### Dados sensíveis e LGPD
 
-Você é servidor público. O dado que passa pela sua mão tem dono e tem lei.
+Se você é empresa ou servidor público. O dado que passa pela sua mão tem dono e tem lei.
 
 A regra, simples e inegociável: protótipo se constrói com dado fictício ou anonimizado. Nome, CPF, dado pessoal de cidadão e informação sigilosa não vão para ferramenta pública. Para construir e mostrar, dado de mentira resolve. O sistema real, com dado real, é outra conversa, com a TI e a área jurídica.
-
-Os dois apps deste repositório foram construídos com dados de exemplo e funcionam sem cadastro real.
 
 ### Protótipo não é produção
 
