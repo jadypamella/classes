@@ -154,7 +154,7 @@ Não construa o sistema da sua vida. Construa a coisa pequena. A emoção de ver
 
 ## Contato
 
-**Jady Pamella** · Head of AI Engineering
+**Jady Pamella** · Master of AI Engineering
 
 - LinkedIn: [linkedin.com/in/jadypamella](https://linkedin.com/in/jadypamella)
 - E-mail: hello@jadypamella.com
@@ -162,4 +162,4 @@ Não construa o sistema da sua vida. Construa a coisa pequena. A emoção de ver
 
 ---
 
-*A pergunta não é mais "quem vai construir isso pra mim?". É: o que eu vou construir enquanto os outros ainda estão esperando?*
+*A pergunta não é mais "quem vai construir isso pra mim?". É: "o que eu vou construir agora?"*
